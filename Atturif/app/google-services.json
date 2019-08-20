@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827566259743",
+    "firebase_url": "https://atturaif-4fef6.firebaseio.com",
+    "project_id": "atturaif-4fef6",
+    "storage_bucket": "atturaif-4fef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827566259743:android:52b6edae747b7b22",
+        "android_client_info": {
+          "package_name": "graduatio.atturif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827566259743-am0d3o9ci9kjg4e05mkb7po40p5tsai6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "graduatio.atturif",
+            "certificate_hash": "81306906a0d0ba05732f31aa38f7fbdc27ed1db0"
+          }
+        },
+        {
+          "client_id": "827566259743-l0pel8ukr5e9gvi2kmge9ka5aphp266n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2T8ZAnwVJftuBWh0xS8WEaO9DqfSMIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827566259743-l0pel8ukr5e9gvi2kmge9ka5aphp266n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
